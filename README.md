@@ -1,4 +1,4 @@
-# Hi there, I'm Antonio, take a coffe while your learn this👋
+# Hi there, I'm Antonio, take a coffe while you see my profile👋
 
 ## I'm Student and Developer!
 - 🎓 Computer Engineering Student
