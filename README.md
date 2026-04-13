@@ -1,27 +1,31 @@
-# Hi there, I'm Antonio, take a coffe while you see my profile👋
+# Hi there, I'm Antonio, take a coffee while you see my profile 👋
 
-## I'm Student and Developer!
-- 🎓 Computer Engineering Student
+> **"Donde los sueños están al alcance del que es disciplinado."**
+
+## 🎓 Computer Engineering Student & Developer
 - 🔐 Main interest: **Cybersecurity**
 - 💡 Entrepreneurial, proactive and curious (continuous learning)
-  
 
 ---
 
-### Languages and Tools
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a><img src="https://skillicons.dev/icons?i=java,python,js,php,kotlin" /></a>
+## 🕵️‍♂️ PROYECTO DESTACADO (Secret)
+### [🤖 CleverClothBot — IA & Fashion ADN](https://huggingface.co/spaces/toniariasss/ClothesDetector)
+*Detección y análisis cromático avanzado.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-In_Development-gold?style=for-the-badge&logo=aiq" />
+  <img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey?style=for-the-badge" />
 </p>
 
-<h3 align="center">Databases</h3>
-<p align="center">
-  <a><img src="https://skillicons.dev/icons?i=mysql,postgresql" /></a>
-</p>
+Este sistema utiliza **IA** para descomponer el estilo visual de cualquier outfit. No solo identifica prendas; extrae su esencia cromática mediante clustering para entender la moda desde los datos.
 
-<h3 align="center">IDEs / Tools</h3>
-<p align="center">
-  <a><img src="https://skillicons.dev/icons?i=idea,vscode,wordpress,graphql,git,github" /></a>
+---
+
+### 🛠 Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,php,kotlin,mysql,postgresql,idea,vscode,git,github" />
+  </a>
 </p>
 
 ---
@@ -29,28 +33,18 @@
 ## 🧩 Featured Projects
 
 ### 🤖 AI / ML
-- **RatonExplorador** — *Java*. Búsqueda por **profundidad limitada (DLS)**.  
-  🔗 https://github.com/ajgarciarias10/RatonExplorador
-- **SmartFruitClassifier** — *Python*. Clasificación de frutas (ML).  
-  🔗 https://github.com/ajgarciarias10/SmartFruitClassifier
+- **RatonExplorador** — Búsqueda por profundidad limitada (DLS).
+- **SmartFruitClassifier** — Clasificación de frutas (ML).
 
-### 🌐 Web Design & Back-end
-- **WORDPRESS-ConcesionariosArias** — *PHP/WordPress*. Sitio para concesionarios (Cloud9 + WP).  
-  🔗 https://github.com/ajgarciarias10/WORDPRESS-ConcesionariosArias
-- **GRAPHQLDESK** — *JavaScript/GraphQL*. Pruebas de API (queries & mutations).  
-  🔗 https://github.com/ajgarciarias10/GRAPHQLDESK
-- **PrimeraWeb.github.io** — *HTML/CSS*. Web estática en GitHub Pages.  
-  > Hecha a partir del curso **Mastermind – Creación de Web con IA**, organizada y desarrollada con **Windsurf**.  
-  🔗 https://github.com/ajgarciarias10/PrimeraWeb.github.io
-
-### 📱 Multiplatform App
-- **DIVINANDO** — *Kotlin*. Proyecto multiplataforma (TFG).  
-  🔗 https://github.com/ajgarciarias10/DIVINANDO
+### 🌐 Web & Back-end
+- **ConcesionariosArias** — PHP/WordPress.
+- **GRAPHQLDESK** — API Testing.
+- **[Mi Portafolio Web](https://ajgarciarias10.github.io)** — Mi nueva landing page hecha con IA.
 
 ---
 
 ## 📫 Contact
-- 🔗 LinkedIn: https://www.linkedin.com/in/antonio-jose-garcia-arias-095475208/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/antonio-jose-garcia-arias-095475208/)
 - ✉️ Email: **ajgarciarias@gmail.com**
 
 <br/>
