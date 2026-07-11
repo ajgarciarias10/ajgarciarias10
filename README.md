@@ -1,14 +1,15 @@
-# Hi there, I'm Antonio, take a coffee while you see my profile 👋
+# Hi there, I'm Antonio. Grab a coffee while you check out my profile 👋
 
-> **"Donde los sueños están al alcance del que es disciplinado."**
+> **“Where dreams are within reach for those who are disciplined.”**
 
 ## 🎓 Computer Engineering Student & Developer
-- 🔐 Main interest: **Cybersecurity**
-- 💡 Entrepreneurial, proactive and curious (continuous learning)
+- 🔐 Main interest: **Agents (AI) **
+- 💡 Entrepreneurial, proactive, and curious (continuous learning)
+- Actually as a Data Engineer
 
 ---
 
-## 🕵️‍♂️ PROYECTOS EN DESARROLLO
+## 🕵️‍♂️ PROJECTS IN PROGRESS
 ### [🤖 CleverClother](https://github.com/ajgarciarias10/CleverBot)
 ### [🤖 PCBuilder]([https://github.com/ajgarciarias10/CleverBot](https://github.com/ajgarciarias10/pcbuilder-api))
 <p align="left">
@@ -16,7 +17,7 @@
   <img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey?style=for-the-badge" />
 </p>
 
-Actualidad de los sistemas en desarrollo.
+Latest updates on systems under development.
 
 ---
 
@@ -32,14 +33,14 @@ Actualidad de los sistemas en desarrollo.
 ## 🧩 Featured Projects
 
 ### 🤖 AI / ML
-- **RatonExplorador** — Búsqueda por profundidad limitada (DLS).
-- **SmartFruitClassifier** — Clasificación de frutas (ML).
+- **RatonExplorador** — Depth-Limited Search (DLS).
+- **SmartFruitClassifier** — Fruit classification (ML).
 
 ### 🌐 Web & Back-end
 - **ConcesionariosArias** — PHP/WordPress.
 - **GRAPHQLDESK** — API Testing.
-- **[Mi Portafolio Web](https://ajgarciarias10.github.io)** — Mi nueva landing page hecha con IA.
-- **[F1-BUGAMBRA](https://github.com/ajgarciarias10/F1-BUGAMBRA)** — Pagina Web - Creada a partir de vibe coding para una liga de f1, los datos se analizaron y supervisaron en firebase.
+- **[My Web Portfolio](https://ajgarciarias10.github.io)** — My new landing page built with AI.
+- **[F1-BUGAMBRA](https://github.com/ajgarciarias10/F1-BUGAMBRA)** — Website — Created using vibe coding for an F1 league; the data was analyzed and monitored in Firebase.
 ---
 
 ## 📫 Contact
@@ -51,3 +52,5 @@ Actualidad de los sistemas en desarrollo.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajgarciarias10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+Translated with DeepL.com (free version)
