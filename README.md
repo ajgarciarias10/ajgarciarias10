@@ -8,16 +8,15 @@
 
 ---
 
-## 🕵️‍♂️ PROYECTO DESTACADO (Secret)
-### [🤖 CleverClothBot — IA & Fashion ADN](https://huggingface.co/spaces/toniariasss/ClothesDetector)
-*Detección y análisis cromático avanzado.*
-
+## 🕵️‍♂️ PROYECTOS EN DESARROLLO
+### [🤖 CleverClother](https://github.com/ajgarciarias10/CleverBot)
+### [🤖 PCBuilder]([https://github.com/ajgarciarias10/CleverBot](https://github.com/ajgarciarias10/pcbuilder-api))
 <p align="left">
   <img src="https://img.shields.io/badge/Status-In_Development-gold?style=for-the-badge&logo=aiq" />
   <img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey?style=for-the-badge" />
 </p>
 
-Este sistema utiliza **IA** para descomponer el estilo visual de cualquier outfit. No solo identifica prendas; extrae su esencia cromática mediante clustering para entender la moda desde los datos.
+Actualidad de los sistemas en desarrollo.
 
 ---
 
@@ -40,7 +39,7 @@ Este sistema utiliza **IA** para descomponer el estilo visual de cualquier outfi
 - **ConcesionariosArias** — PHP/WordPress.
 - **GRAPHQLDESK** — API Testing.
 - **[Mi Portafolio Web](https://ajgarciarias10.github.io)** — Mi nueva landing page hecha con IA.
-
+- **[F1-BUGAMBRA](https://github.com/ajgarciarias10/F1-BUGAMBRA)** — Pagina Web - Creada a partir de vibe coding para una liga de f1, los datos se analizaron y supervisaron en firebase.
 ---
 
 ## 📫 Contact
