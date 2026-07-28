@@ -15,9 +15,10 @@
   <img src="https://img.shields.io/badge/Status-In_Development-gold?style=for-the-badge&logo=aiq" />
   <img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey?style=for-the-badge" />
 </p>
+
 ### [🤖 PCBuilder]([https://github.com/ajgarciarias10/CleverBot](https://github.com/ajgarciarias10/pcbuilder-api))
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-In_Development-gold?style=for-the-badge&logo=aiq" />
+  <img src="https://img.shields.io/badge/Status-Not Started Yet-gold?style=for-the-badge&logo=aiq" />
   <img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey?style=for-the-badge" />
 </p>
 
