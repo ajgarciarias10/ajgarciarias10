@@ -5,18 +5,24 @@
 </p>
 
 <p align="center">
-  Computer Engineering student &amp; Data Engineer.<br/>
+  Computer Engineering student moving into <strong>AI engineering</strong> — LLM-powered apps, agents<br/>
+  and the software around them. Previously a Data Engineer. Always learning something new.<br/>
   Everything I'm building lives on my portfolio — projects, screenshots, CV and contact.
 </p>
 
 <p align="center">
-  <a href="https://ajgarciarias10.github.io">
-    <img src="https://img.shields.io/badge/👉_Visit_my_portfolio-ajgarciarias10.github.io-e10600?style=for-the-badge" alt="Visit my portfolio" />
+  <a href="https://ajgarciarias10.github.io/">
+    <img src="https://img.shields.io/badge/Visit%20my%20portfolio-ajgarciarias10.github.io-e10600?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit my portfolio" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antonio-jose-garcia-arias-095475208/">
+  <strong><a href="https://ajgarciarias10.github.io/">ajgarciarias10.github.io</a></strong><br/>
+  <sub>Projects, screenshots, CV and contact — all of it lives there, not here.</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonio-jos%C3%A9-garc%C3%ADa-arias-095475208/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ajgarciarias@gmail.com">
