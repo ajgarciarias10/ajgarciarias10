@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antonio-jos%C3%A9-garc%C3%ADa-arias-095475208/">
+  <a href="https://www.linkedin.com/in/antonio-jose-garcia-arias-095475208/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ajgarciarias@gmail.com">
